@@ -6,11 +6,11 @@
 
 .blog-header {
     border: 2px solid black;
-    width: auto;
     padding-left: 50px;
     padding-top: 20px;
     padding-right: 50px;
     padding-bottom: 5px;
+    width: 100%;
 }
 
 .container {
