@@ -14,7 +14,7 @@
 }
 
 .container {
-    background-color: #4E8098;
+    background-color: #dfefe7;
     display: flex;
     flex-direction: row;
     justify-content: left;
@@ -26,7 +26,6 @@
 }
 
 .welcome {
-    background-color: green;
     justify-content: center;
 }
 
